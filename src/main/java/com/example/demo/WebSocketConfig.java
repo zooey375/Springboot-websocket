@@ -8,7 +8,8 @@ import org.springframework.web.socket.config.annotation.WebSocketMessageBrokerCo
 
 //WebSocket 的資訊配置
 @Configuration
-@EnableWebSocketMessageBroker
+@EnableWebSocketMessageBroker // 啟用STOMP
 public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
+		// 定義訊息路由規則
 }

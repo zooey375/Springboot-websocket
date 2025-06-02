@@ -1,3 +1,5 @@
+// 用 java 寫的一個視窗程式，輸入訊息前台都會收到。
+
 package com.example.demo;
 
 import javax.swing.*;
